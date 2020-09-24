@@ -1,2 +1,2 @@
 # SGD-VN
-Serious Games Design Visual Novel
+'Cloaked Lust' Visual novel made in Python using Ren'Py
